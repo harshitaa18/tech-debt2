@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Reseller_Group_District__c</fullName>
+    <label>Reseller Group District</label>
+    <type>Text</type>
+    <length>255</length>
+</CustomField>
