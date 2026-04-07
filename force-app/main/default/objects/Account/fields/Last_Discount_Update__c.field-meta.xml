@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Last_Discount_Update__c</fullName>
+    <description>Last time discount was updated for this account</description>
+    <label>Last Discount Update</label>
+    <type>DateTime</type>
+</CustomField>

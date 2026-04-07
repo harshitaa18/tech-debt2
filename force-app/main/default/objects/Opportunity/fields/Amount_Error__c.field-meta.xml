@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Amount_Error__c</fullName>
+    <description>Error message for amount processing issues</description>
+    <label>Amount Error</label>
+    <length>255</length>
+    <type>Text</type>
+</CustomField>

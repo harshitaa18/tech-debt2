@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Low_Probability_Flag__c</fullName>
+    <description>Flag for low probability opportunities</description>
+    <label>Low Probability Flag</label>
+    <length>10</length>
+    <type>Text</type>
+</CustomField>
