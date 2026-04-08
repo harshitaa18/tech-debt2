@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Large_Deal_Indicator__c</fullName>
+    <description>Indicator for large deals</description>
+    <label>Large Deal Indicator</label>
+    <length>10</length>
+    <type>Text</type>
+</CustomField>

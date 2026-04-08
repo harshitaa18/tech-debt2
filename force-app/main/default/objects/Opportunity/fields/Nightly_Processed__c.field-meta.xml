@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Nightly_Processed__c</fullName>
+    <description>Tracks if opportunity was processed by nightly batch</description>
+    <label>Nightly Processed</label>
+    <length>10</length>
+    <type>Text</type>
+</CustomField>
