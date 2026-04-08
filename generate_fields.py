@@ -3,7 +3,7 @@ import random
 import os
 from pathlib import Path
 
-# Business terms for generating messy field names
+# Business terms for generating messy field namess
 business_terms = [
     "Legacy", "Old", "Archive", "Historical", "Vintage", "Classic", "Retired", "Deprecated",
     "Discount", "Rate", "Percentage", "Value", "Amount", "Total", "Sum", "Balance",
