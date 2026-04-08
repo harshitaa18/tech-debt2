@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.Active__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.ExternalSalesforceId__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>Contact.AttendanceStatus__c</members>
+        <members>Contact.ExternalSalesforceId__c</members>
+        <members>Contact.IsPrimary__c</members>
+        <members>Contact.Languages__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>58.0</version>
+</Package>
